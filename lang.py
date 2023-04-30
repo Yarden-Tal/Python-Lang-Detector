@@ -3,7 +3,7 @@ from langdetect import detect
 from langcodes import *
 
 root = Tk()
-root.title("Yarden's tiny language detector")
+root.title("Yarden's Tiny Language Detector")
 root.geometry("640x460")
 
 # FUNCTIONS
